@@ -1,0 +1,5 @@
+package com.mfpe.security;
+
+public class SwaggerConfig {
+
+}
